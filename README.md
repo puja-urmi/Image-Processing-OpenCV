@@ -68,7 +68,3 @@ pip install opencv-python numpy jupyter pywavelets
 ## Contributions
 
 Feel free to open issues or submit pull requests if you find any improvements or bugs.
-
----
-
-This structure provides a clear guide for using and understanding your notebook.
