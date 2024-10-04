@@ -1,7 +1,3 @@
-Here’s a sample README file for your repo:
-
----
-
 # Image Processing with OpenCV
 
 This repository contains various image processing techniques implemented using OpenCV. The techniques are demonstrated in a Jupyter notebook (`image_processings.ipynb`) with detailed code and explanations.
